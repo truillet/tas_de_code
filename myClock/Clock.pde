@@ -16,7 +16,7 @@ class Clock
   private Calendar cal;
   private int x,y;
   private int size;
-  private PFont f_hour,/*f_minute*/;
+  private PFont f_hour;/*f_minute*/;
   private color b1,b2;
   
   Clock(int x, int y)
