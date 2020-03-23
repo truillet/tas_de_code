@@ -2,7 +2,7 @@
 
 Des petits projets sans grande importance mais qui peuvent servir d'exemple pour de plus grands projets :blush:
 
-* **ColorPicker** : (Processing.org) changement de couleur du fond en utilisant une palette (utilise [ImageJ](https://imagej.nih.gov/ij)
+* **ColorPicker** : (Processing.org) changement de couleur du fond en utilisant une palette (utilise [ImageJ](https://imagej.nih.gov/ij))
 * **HexaMenu** : (Processing.org) un menu hexagonal
 * **ICAO** : (Python) transforme un texte en alphabet international (+ synthèse vocale)
 * **myClock** : (Processing.org) une horloge futuriste
