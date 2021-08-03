@@ -14,5 +14,5 @@ Des petits projets sans grande importance mais qui peuvent servir d'exemple pour
 * **Pass_EU_QRCode** : (Processing.org) décodage du certificat COVID Numérique UE (QRCode) [seuls quelques éléments sont affichés]
 * **RealColorPicker**: (Processing.org) remplacer une couleur dans la scène par une autre couleur ...
 * **Shader_VHS** : (Processing.org) usage de shader VHS sur une webcam
-* **Speech_Recogntion**: (Python) un système de reconnaissance de la parole (basique) sous [ivy](https://github.com/truillet/ivy) 
+* **Speech_Recognition**: (Python) un système de reconnaissance de la parole (basique) sous [ivy](https://github.com/truillet/ivy) 
 * **virtual_keyboard** :  (Processing.org) un clavier virtuel 
