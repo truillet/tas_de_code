@@ -9,6 +9,7 @@ Des petits projets sans grande importance mais qui peuvent servir d'exemple pour
 * **myClock** : (Processing.org) une horloge futuriste
 * **myPieMenu** : (Processing.org) un pie menu
 * **mySlogans** : (Processing.org) un slogan à afficher (avec un compteur qui utilise un thread)
+* **NASA_PotD** : (Processing.org) NASA **P**icture **o**f **t**he **D**ay
 * **OCR_Tess** : (Processing.org) reconnaissance OCR avec tess4J
 * **optionPane** : (Processing.org) utiliser un JOptionPane dans un sketch Processing
 * **Pass_EU_QRCode** : (Processing.org) décodage du certificat COVID Numérique UE (QRCode) [seuls quelques éléments sont affichés]
