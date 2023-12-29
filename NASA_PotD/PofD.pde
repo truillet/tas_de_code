@@ -1,6 +1,6 @@
 class PotD { // Pic of the Day
 
-  private String appID="RLP0aqvcMGoGJRIZWRhtIoQrcNRLMkAqX9O8OwjV"; // to be replaced with your appid 
+  private String appID="xxx"; // to be replaced with your appid 
   private String copyright; // seems optional
   // date
   private String title;
